@@ -10,7 +10,8 @@
 
 ## Technologies
 
-- ReactJS 18.2.0
+- ReactJS v18.2.0
 - Funcitonal Components with Hooks
 - React-Router-DOM
 - SCSS
+- Jest testing framework v29.3.1
