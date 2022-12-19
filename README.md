@@ -1,4 +1,4 @@
-# Reward Calculation Reward App
+# Assessment - Reward Calculation
 
 ## Setting up environment
 
